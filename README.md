@@ -11,7 +11,7 @@ that is rael
 <body>
     <header>
         <div class="container">
-            <h1>Abdulvohidgram</h1>
+            <h1>instagram</h1>
             <nav>
                 <ul>
                     <li><a href="#home">Home</a></li>
