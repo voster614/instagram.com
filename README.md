@@ -48,7 +48,7 @@ that is rael
         </section>
     </main>
     <footer>
-        <p>&copy; 2025 Abdulvohidgram. All rights reserved.</p>
+        <p>&copy; 2025 instagram. All rights reserved.</p>
     </footer>
 </body>
 </html>
